@@ -1,6 +1,6 @@
 {
   "name": "node-require-timings",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "quickly discover the time it takes to require a specific file/module",
   "main": "index.js",
   "scripts": {
