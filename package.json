@@ -8,5 +8,6 @@
   },
   "author": "stefanpenner <stefan.penner@gmail.com>",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {},
+  "repository": "https://github.com/stefanpenner/node-require-timings"
 }
